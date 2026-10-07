@@ -8,7 +8,7 @@ NoteVault is a secure note-sharing web application built with **Next.js 16**, **
 
 ## 🚀 Live Demo & Deliverables
 
-- **Live Application:** `[YOUR_DEPLOYED_URL_HERE]` (e.g. `https://notevault-poc.vercel.app`)
+- **Live Application:** `https://note-sharing-app-three.vercel.app`
 - **GitHub Repository:** `https://github.com/DhruvKumawat567/note-sharing-app-`
 - **Demo & Explanation Video:** `[YOUR_LOOM_OR_GOOGLE_DRIVE_VIDEO_LINK_HERE]`
 - **Test Credentials:**
